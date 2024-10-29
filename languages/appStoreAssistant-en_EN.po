@@ -1,0 +1,559 @@
+# Copyright (C) 2012 App Store Assistant
+# This file is distributed under the same license as the App Store Assistant package.
+msgid ""
+msgstr ""
+"Project-Id-Version: App Store Assistant 5.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/app-store-assistant\n"
+"POT-Creation-Date: 2013-04-14 12:40-0800\n"
+"PO-Revision-Date: 2013-04-14 12:40-0800\n"
+"Last-Translator: S.E.A.L. Systems <asa.localization@sealsystems.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Volumes/Aux Storage/Downloads/app-store-assistant\n"
+"X-Poedit-SearchPath-1: /Volumes/Aux Storage/Downloads/app-store-assistant/"
+"includes\n"
+"X-Poedit-SearchPath-2: /Volumes/Aux Storage/Downloads/app-store-assistant/"
+"includes/options_pages\n"
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/app-store-assistant.php:112
+msgid "Top 5 iOS Apps"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/app-store-assistant.php:119
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:690
+msgid ""
+"Missing atomurl in tag. Replace <strong>id</strong> with <strong>atomurl</"
+"strong>."
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/app-store-assistant.php:180
+msgid "Title:"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/app-store-assistant.php:185
+msgid "ATOM Feed:"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:282
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:291
+msgid "General Settings"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:295
+msgid "Visual Settings"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:299
+msgid "iOS & Mac App Store Settings"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:303
+msgid "iTunes Store Settings"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:307
+msgid "Amazon.com Settings"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:311
+msgid "Utilities"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:315
+msgid "Help Page"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:319
+msgid "Affiliate Program"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:372
+msgid ""
+"Below is a collection of controls you can use to customize the App Store "
+"Assistant plugin"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:375
+msgid "Settings Updated!"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:382
+msgid "Save Changes"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:471
+msgid "Creating Post..."
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:488
+msgid "Caching App data..."
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:491
+msgid "Saving Default Featured Image..."
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:509
+msgid "Your"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:511
+msgid "POST has been created for"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:514
+msgid "Click here to edit the new post"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:517
+msgid "In the following categories"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:523
+msgid "There was an error creating your post for"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:553
+msgid "iPad only"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:592
+msgid "Find an App from the App Store or Mac App Store"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:593
+msgid ""
+"This will generate a shortcode that you can paste into your POST. You will "
+"also have the option to <b>auto-create a post</b> which will include a "
+"Featured Image, App Title, Shortcode and Categories. After creation, you "
+"will be given a link to edit the post."
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:598
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:622
+msgid "iPhone/iPod Software"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:604
+msgid "All iOS Software"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:610
+msgid "iPad Software"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:616
+msgid "Macintosh Software"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:640
+msgid "App Name"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:642
+msgid "Find Apps"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:645
+msgid "All iOS"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:646
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:968
+msgid "Mac"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:647
+msgid "Just iPhone/iPod"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:648
+msgid "Just iPad"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:673
+#, php-format
+msgid "No %d Results Found!"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:724
+msgid "No Featured Image Found"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:732
+msgid "No App IDs or Amazon ASINs found for post"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:738
+msgid "No Post Title Found for post"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:741
+msgid "Post Title Found"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:751
+msgid "App IDs Found"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:757
+msgid "First App ID Found"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:759
+msgid "Could Not Cache Data for App ID"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:762
+msgid "Caching App data for"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:781
+msgid "Amazon ASINs Found"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:786
+msgid "First Amazon ASIN Found"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:796
+msgid "Could Not Process Featured Image URL for Post"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:803
+msgid "No Thumbnails found for App ID"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:803
+msgid "Images may be missing or in the wrong format."
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:806
+msgid "Thumbnails Found"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:835
+msgid "The Uploads folder is not WRITABLE. Please CHMOD the folder  "
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:838
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:860
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:871
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:882
+msgid ""
+"Images will not load without this folder, if you have \"Cache Images Locally"
+"\" turned on."
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:847
+msgid "The Cache folder "
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:849
+msgid " has been created successfully!"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:857
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:877
+msgid "The Cache folder does NOT exist. Please create "
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:859
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:881
+msgid " folder and CHMOD it to '777'"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:868
+msgid "The Cache folder is not WRITABLE. Please CHMOD the folder"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:879
+msgid " folder in "
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-admin_functions.php:908
+msgid "Settings"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:288
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:339
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:383
+msgid "Status"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:291
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:342
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:386
+msgid "List Price"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:295
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:346
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:390
+msgid "Amazon Price"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:299
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:394
+msgid "Disc Released"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:302
+msgid "Theatrical Release"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:305
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:867
+msgid "From"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:336
+msgid "Publisher"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:350
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:876
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1347
+msgid "Released"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:354
+msgid "Published"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:377
+msgid "Features"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-amazon_functions.php:380
+msgid "Manufacturer"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:158
+msgid "A List of music from iTunes"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:162
+msgid "A List of Apps"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:544
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:921
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1149
+msgid "View in App Store"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:648
+msgid "Missing list of IDs."
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:781
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:786
+msgid "Artist"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:782
+msgid "Explicit"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:783
+msgid "Track Count"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:789
+msgid "Director"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:790
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:795
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:804
+msgid "Rated"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:794
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:803
+msgid "Series"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:802
+msgid "Episodes"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:841
+msgid "View in iTunes"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:870
+msgid "Genre"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:969
+msgid "iPhone"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:970
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:987
+msgid "Screenshots"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:987
+msgid "iPad"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1116
+msgid "or"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1132
+msgid "Release notes"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1219
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1225
+msgid "Supported Devices"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1330
+msgid "Version"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1335
+msgid "Created & Sold by"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1339
+msgid "Created by"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1342
+msgid "Sold by"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1350
+msgid "File Size"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1353
+msgid "This app is designed for both iPhone and iPad"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1357
+msgid "Age Rating"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/app-store-functions.php:1399
+#, php-format
+msgid "by %d users"
+msgstr ""
+
+#: /Volumes/Aux
+#: Storage/Downloads/app-store-assistant/includes/options_pages/options_test.php:12
+msgid "Get Comments"
+msgstr ""

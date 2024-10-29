@@ -1,0 +1,275 @@
+div.asaWidget1 * {margin: 0; padding: 0;}
+ 
+div.asaWidget1 {
+  margin: 20px;
+}
+div.asaWidget1 ul
+{
+	list-style-type: none;
+}
+
+div.asaWidget1 h4
+{
+	font-family: Helvetica, Verdana, sans-serif;
+	font-size: small;
+	font-weight: bold;
+}
+ 
+div.asaWidget1 li img {
+  float: left;
+  margin: 0 15px 0 0;
+}
+ 
+div.asaWidget1 li p
+{
+	font-size: small;
+}
+ 
+div.asaWidget1 li {
+  padding: 10px;
+  overflow: auto;
+}
+ 
+div.asaWidget1 li:hover {
+  background: #eee;
+  cursor: pointer;
+}
+
+
+img.appStore_ThumbIcon
+{
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.appStore-title
+{
+	font-size: x-large;
+	font-weight: bold;
+}
+.iTunesStore-title
+{
+	font-size: x-large;
+	font-weight: bold;
+}
+.amazonStore-title
+{
+	font-size: large;
+	font-weight: bold;
+}
+.amazonStore-amazonprice
+{
+	color: #F00;
+	font-weight: bold;
+}
+.amazonStore-amazonprice-desc { }
+.amazonStore-listprice
+{
+	font-weight: bold;
+	text-decoration: line-through;
+}
+.amazonStore-listprice-desc { }
+.amazonStore-description
+{
+	border-top: 1px #B3B3B3 solid;
+	margin-top: 10px;
+}
+.amazonStore-features-desc{
+	font-size: large;
+	font-weight: bold;
+
+}
+.amazonStore-description p
+{
+	text-indent: 40px;
+}
+
+.appStore-screenshots {
+	list-style-type: none !important;
+	margin: 0;
+	padding: 0;
+}
+.appStore-screenshots li {
+	float: left;
+	list-style-type: none !important;
+}
+
+.iTunesStore-icon {
+	float: right;
+}
+
+.appStore-rating {
+	margin-bottom: 10px;
+}
+.appStore-version {
+	text-align: left;
+}
+.appStore-developername {
+	text-align: left;
+}
+.appStore-sellername {
+	text-align: left;
+}
+.appStore-releasedate {
+	text-align: left;
+}
+.appStore-filesize {
+	text-align: left;
+}
+.appStore-universal img
+{
+}
+
+.appStore-advisoryrating {
+	text-align: left;
+}
+.appStore-categories {
+	text-align: left;
+}
+.appStore-supporteddevices {
+	text-align: left;
+}
+
+#appStore-icon-container
+{
+	float: right;
+	text-align: center;
+}
+#appStore-icon-container-left
+{
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+img.appStore-gamecentericon
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.appStore-gamecenter
+{
+	text-align: center;
+}
+
+
+#appStore-icon-container a img
+{
+	border: 0px;
+	margin: 0px;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	overflow: hidden;
+	background-color: Transparent;
+}
+
+#iTunesStore-icon-container {
+	float: right;
+}
+
+#iTunesStore-icon-container img {
+	border: 0px;
+	margin: 0px;
+	overflow: hidden;
+	background-color: Transparent;
+}
+
+
+th.prefTableHeader {
+	background-color: #B3B3B3;
+	font-weight: bold;
+}
+
+div.asaf-entry img {
+	/* max-width: 150px;*/
+}
+
+.iTunesStore-Button:active {
+	position:relative;
+	top:1px;
+}
+
+
+.appStore-Button:active {
+	position:relative;
+	top:1px;
+}
+
+.BuyButton {
+	color: #fcfc00;
+}
+
+.FullDescriptionButton {
+	font-size: 13px;
+	font-weight: normal;
+	padding: 4px 8px;
+}
+
+.appStore-badge {
+	width: 100%;
+	margin: 5px auto 5px auto;
+	text-align: right;
+}
+
+.appStore-FullDescButton {
+	width: 100%;
+	margin: 5px auto 5px auto;
+	text-align: center;
+}
+.appStore-moreinfo_button {
+	width: 100%;
+	margin: 5px auto 5px auto;
+	text-align: right;
+}
+
+.appStore-purchase {
+	margin: 8px auto 8px auto;
+	text-align: right;
+}
+
+.appStore-purchase-center
+{
+	width: 100%;
+	margin: 8px auto 8px auto;
+	text-align: center;
+}
+
+.FullDescriptionButton {
+	font-size: 13px;
+	font-weight: normal;
+	padding: 4px 8px;
+}
+.asadebug
+{
+	background-color: #FC6;
+	color: #F00;
+	font-size: 12px;
+	border: 1px purple dashed;
+	padding: 7px;
+white-space: pre;
+  font-family: monospace;
+  display: block;}
+  
+  
+table.trackListing
+{
+	font-family: verdana,arial,sans-serif;
+	font-size: 11px;
+	color: #333333;
+	width: 100%;
+}
+table.trackListing th
+{
+	padding: 3px 8px 3px 8px;
+	background-color: #dedede;
+	font-weight: bold;
+}
+table.trackListing td
+{
+	border-width: 1px;
+	padding: 0px 8px 2px 8px;
+}
+table.trackListing td.right { text-align: right; }
